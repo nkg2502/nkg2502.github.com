@@ -1,6 +1,6 @@
 # Site settings
-title: hello
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+title: 시 모음
+description: "내가 좋아하는 시 모음"
 url: "http://localhost:4000/"
 author:
   name: "me"
